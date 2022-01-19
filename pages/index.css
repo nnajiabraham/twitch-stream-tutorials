@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+#first-heading {
+    color: blue;
+}
+
+.heading2 {
+    color: green;
+    font-style: italic;
+}
+
+.heading {
+    font-style: italic;
+    color: chocolate;
+}
